@@ -33,11 +33,6 @@
 - **Competition-ready:** Hold/coast brake modes, intake/shooter controls, and quick auton switching.
 
 
-## Preview
-<div align="center">
-  <img src="assets/robot-hero.png" alt="Robot" width="720"/>
-</div>
-
 
 ## Getting Started
 - **Requirements**
