@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/circle-sticker.png" alt="Grid Walkers Logo" width="140"/>
+<img src="assets/logo-robot.png" alt="Grid Walkers Robot Logo" width="180"/>
+
+<br/>
+<img src="assets/logo-wordmark.png" alt="Grid Walkers Wordmark" width="420"/>
 
 <h1>Grid Walkers – VEX Robotics Codebase</h1>
 
@@ -20,7 +23,7 @@
 
 ---
 
-> High-performance VEX V5 code built with PROS and EZ-Template. Clean structure, dependable autos, and smooth teleop — styled to match our site’s dark theme.
+> `High-performance VEX V5 code built with PROS and EZ-Template — dark, fast, reliable.`
 
 
 ## Highlights
@@ -103,8 +106,9 @@ Adjust mappings in `src/main.cpp` if needed.
 
 ## Assets
 - Place images in `assets/` and use relative links in Markdown.
-  - `assets/circle-sticker.png`  ← use your circular logo
-  - `assets/robot-hero.png`      ← a hero shot or render of the robot
+  - `assets/logo-robot.png`      ← robot mark (used in header)
+  - `assets/logo-wordmark.png`   ← team name/number wordmark (used in header)
+  - `assets/robot-hero.png`      ← optional hero shot or render of the robot
 
 > After moving files, GitHub will render the logo and preview automatically.
 
